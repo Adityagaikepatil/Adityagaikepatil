@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/52/952/desktop-wallpaper-computer-quotes-funny-ultra-backgrounds-for-u-tv-tablet-smartphone-programme-quote.jpg)
+![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/52/952/desktop-wallpaper-computer-quotes-funny-ultra-backgrounds-for-u-tv-tablet-smartphone-programme-quote.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Gaike</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif">
@@ -27,5 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaikepatil&" alt="adityagaikepatil" /></p>
 
-From <https://rahuldkjain.github.io/gh-profile-readme-generator/> 
-![image](https://github.com/Adityagaikepatil/Adityagaikepatil/assets/107017541/133deb4a-26bc-422e-9b33-fc83a018fd8f)
+
