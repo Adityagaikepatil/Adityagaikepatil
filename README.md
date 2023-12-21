@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MERN , Android**
+- 💬 Ask me about **MERN, Android, and Video Editing**
 
 - 📫 How to reach me **adityagaike19@gmail.com**
 
-- ⚡ Fun fact **I do 50 Push ups whenever a bug takes more than an hour to get resolve.**
+- ⚡ Fun fact **I do 50 Push ups whenever a bug takes me more than an hour to get resolve.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
