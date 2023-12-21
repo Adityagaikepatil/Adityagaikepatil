@@ -1,7 +1,7 @@
-![MasterHead](https://dontgiveupworld.com/wp-content/uploads/2013/07/Facebook-Timeline-cover-on-Failure-3-758x281.jpg)
+![MasterHead](https://assets.visme.co/templates/banners/thumbnails/i_Albert-Einstein-Quote-LinkedIn-Header_full.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Gaike</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif">
+<img align="right" width="400" alt="coding" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagaikepatil&label=Profile%20views&color=0e75b6&style=flat" alt="adityagaikepatil" /> </p>
 
 - 🌱 I’m currently learning **React Native**
