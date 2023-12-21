@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adityagaike19@gmail.com**
 
-- ⚡ Fun fact **I do 50 Push ups whenever a bug takes me more than an hour to get resolve.**
+- ⚡ Fun fact **I do 50 Push ups whenever a bug takes me more than an hour to get resolve. 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
